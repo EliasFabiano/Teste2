@@ -12,17 +12,17 @@ Usamos para exemplificar a criação de sistema de salão de cabeleireiro como c
 Nome | Telefone | Data do Agendamento | Valor
 --- |--- |--- |---
 Eduardo |12-34566789 | 01/06/20 | R$ 40,00
-Anonimo01|**Dado Deletado** | 01/06/20 | R$ 40,00
+Anonimo|**Dado Deletado** | 01/06/20 | R$ 40,00
 
 
-##Processo De Desenvolvimento
+## Processo de Desenvolvimento
 ---
-###Sprint 1
-###Sprint 2
-###Sprint 3
-###Sprint 4
-###Sprint 5
-###Sprint 6
+### Sprint 1
+### Sprint 2
+### Sprint 3
+### Sprint 4
+### Sprint 5
+### Sprint 6
 
 
 ## Instalação e Configuração do ambiente virtual
@@ -39,7 +39,7 @@ Para execultar o ambiente de desenvolvimento é necessario que tenha essa depend
 ### Windows
 
 
-### LINUX / OS
+### LINUX / MAC-OS
 
 Abra o terminal de comando e execulte o seguite comandos:
 
