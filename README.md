@@ -1,8 +1,5 @@
 # Projeto Segurança da Informação
 
-## O que é LGBD?
-[![](http://img.youtube.com/vi/y7SamL2wYSc/0.jpg)](http://www.youtube.com/watch?v=y7SamL2wYSc "O que é LGPD?")
-
 ## Objetivo?
 Projeto tem intuito de demonstrar modelagem de banco de dados ideal para um mercado se adequar com a LGPD, fazendo com que seja possível a exclusão de dados normais e sensiveis dos clientes. Por meio de uma aplicação que simule tal situação.
 
@@ -14,6 +11,8 @@ Nome | Telefone | Data do Agendamento | Valor
 Eduardo |12-34566789 | 01/06/20 | R$ 40,00
 Anonimo|**Dado Deletado** | 01/06/20 | R$ 40,00
 
+## O que é LGBD?
+[![](http://img.youtube.com/vi/y7SamL2wYSc/0.jpg)](http://www.youtube.com/watch?v=y7SamL2wYSc "O que é LGPD?")
 
 ## Processo de Desenvolvimento
 ---
@@ -79,7 +78,7 @@ Abra o terminal de comando e execulte o seguite comandos:
 * Instalação do Pip (pip é um sistema de gerenciamento de pacotes padrão)
  `sudo apt-get install python-pip`
 
-* Instalação Virtualenv e Ativação (Controlador de dependencias do ambiente desenvolvimento)
+* Instalação Virtualenv (Controlador de dependencias)
 `pipx install virtualenv`
 
 * Criando uma virtualenv 
@@ -87,6 +86,11 @@ Abra o terminal de comando e execulte o seguite comandos:
 
 * Ativado a virtualenv
 `souce nome_da_virtualenv/bin/activate`
+
+* Instalando Flask
+`pip install flask`
+
+* 
 
 
 
