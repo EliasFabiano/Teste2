@@ -18,11 +18,41 @@ Anonimo|**Dado Deletado** | 01/06/20 | R$ 40,00
 ## Processo de Desenvolvimento
 ---
 ### Sprint 1
+ - [ ] Coletar boas idéias 
+ - [ ] Escolher melhores ferramentas
+ - [ ] Como planejar as strints
+ - [ ] Criar caledarios possiveis
+ 
+ 
 ### Sprint 2
+- [ ] Criar protóticos
+- [ ] Desmonstar ideias
+- [ ] Fazer teste
+- [ ] Tarefa
+
 ### Sprint 3
+- [ ] Entregar valor
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+
 ### Sprint 4
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+
 ### Sprint 5
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+
 ### Sprint 6
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
+- [ ] Tarefa
 
 
 ## Instalação e Configuração do ambiente virtual
@@ -47,15 +77,18 @@ Abra o terminal de comando e execulte o seguite comandos:
 `sudo apt-get install python3`
 
 * Instalação do Pip (pip é um sistema de gerenciamento de pacotes padrão)
- "sudo apt-get install python-pip"
+ `sudo apt-get install python-pip`
 
 * Instalação Virtualenv e Ativação (Controlador de dependencias do ambiente desenvolvimento)
-'pipx install virtualenv'
+`pipx install virtualenv`
 
 * Criando uma virtualenv 
-virtualenv nome_da_virtualenv
+`virtualenv nome_da_virtualenv`
 
-* 
+* Ativado a virtualenv
+`souce nome_da_virtualenv/bin/activate`
+
+
 
 ## Tecnologia Usada
 
