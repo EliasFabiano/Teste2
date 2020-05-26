@@ -16,17 +16,17 @@ Anonimo|**Dado Deletado** | 01/06/20 | R$ 40,00
 
 ## Processo de Desenvolvimento
 ---
+
 ### Sprint 1
  - [ ] Coletar boas idéias 
  - [ ] Escolher melhores ferramentas
  - [ ] Como planejar as strints
- - [ ] Criar caledarios possiveis
- 
+ - [ ] Criar calendarios possiveis
  
 ### Sprint 2
 - [ ] Criar protóticos
-- [ ] Desmonstar ideias
-- [ ] Fazer teste
+- [ ] Desmonstar idéias
+- [ ] Fazer Testes
 - [ ] Tarefa
 
 ### Sprint 3
@@ -65,10 +65,6 @@ Para execultar o ambiente de desenvolvimento é necessario que tenha essa depend
 * pip
 * Flask
 
-### Windows
-
-
-### LINUX / MAC-OS
 
 Abra o terminal de comando e execulte o seguite comandos:
 
