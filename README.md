@@ -11,10 +11,35 @@ Usamos para exemplificar a criação de sistema de salão de cabeleireiro como c
 
 ## Instalação e Configuração do ambiente virtual
 
+### Pré requisitos de instalação
+
+Para execultar o ambiente de desenvolvimento é necessario que tenha essa dependencias abaixo: 
+
+* python 3.8
+* virtualenv
+* pip
+* Flask
+
 ### Windows
+
 
 ### LINUX / OS
 
+Abra o terminal de comando e execulte o seguite comandos:
+
+* Instalação do python 3.8
+sudo apt-get install python3
+
+* Instalação do Pip (pip é um sistema de gerenciamento de pacotes padrão)
+ sudo apt-get install python-pip
+
+* Instalação Virtualenv e Ativação (Controlador de dependencias do ambiente desenvolvimento)
+pipx install virtualenv
+
+* Criando uma virtualenv 
+virtualenv nome_da_virtualenv
+
+* 
 
 ## Tecnologia Usada
 
@@ -23,19 +48,23 @@ Usamos para exemplificar a criação de sistema de salão de cabeleireiro como c
 * HTML/CSS
 * MySQL
 
-
-
 ## Autores 
+
+* Marcio Ordonez 
+* Eduardo Nunes 
+* Thiago Dias
+* Elias Fabiano
+* Cauan Almeida
 
 
 
 ## Lincença 
-Esse Sistema é livre para ser estudado e usado por qualquer pessoa que queria 
-
+Esse Sistema seu código fonte livre para ser estudado  e usado por qualquer pessoa que queria
 
 
 ## Agradecimento 
-Professor e Orientador da Fatec São José dos Campos 
+Professor e Orientador  Segurança da Informação da Fatec São José dos Campos
+Eduardo Sakaue 
 
 
 
