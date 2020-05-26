@@ -4,7 +4,7 @@
 Projeto tem intuito de demonstrar modelagem de banco de dados ideal para um mercado se adequar com a LGPD, fazendo com que seja possível a exclusão de dados normais e sensiveis dos clientes. Por meio de uma aplicação que simule tal situação.
 
 ### Sistema de Agendamento para Salão de Cabelereiros
-Usamos para exemplificar a criação de sistema de salão de cabeleireiro como cadastro de usuario, agendamento. O Principal obejtivo é desmostrar como projetar o sistema para que o usuario possa excluir e gerenciar seus dados sem que interfira na integridade relacinal do banco de dados e não prejudique o funcionamento do sistema.
+Usamos para exemplificar a criação de sistema de salão de cabeleireiro como cadastro de usuario, agendamento. O Principal objetivo é desmostrar como projetar o sistema para que o usuario possa excluir e gerenciar seus dados sem que interfira na integridade relacinal do banco de dados e não prejudique o funcionamento do sistema.
 **Exemplo**
 Nome | Telefone | Data do Agendamento | Valor
 --- |--- |--- |---
