@@ -28,13 +28,13 @@ Para execultar o ambiente de desenvolvimento é necessario que tenha essa depend
 Abra o terminal de comando e execulte o seguite comandos:
 
 * Instalação do python 3.8
-sudo apt-get install python3
+`sudo apt-get install python3`
 
 * Instalação do Pip (pip é um sistema de gerenciamento de pacotes padrão)
- sudo apt-get install python-pip
+ "sudo apt-get install python-pip"
 
 * Instalação Virtualenv e Ativação (Controlador de dependencias do ambiente desenvolvimento)
-pipx install virtualenv
+'pipx install virtualenv'
 
 * Criando uma virtualenv 
 virtualenv nome_da_virtualenv
