@@ -90,7 +90,8 @@ Abra o terminal de comando e execulte o seguite comandos:
 * Instalando Flask
 `pip install flask`
 
-* 
+* Intalando as depêndencias
+`pip install -r requirements.txt` 
 
 
 
