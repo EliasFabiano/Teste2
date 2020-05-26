@@ -18,19 +18,19 @@ Anonimo|**Dado Deletado** | 01/06/20 | R$ 40,00
 ---
 
 ### Sprint 1
- - [ ] Coletar boas idéias 
- - [ ] Escolher melhores ferramentas
- - [ ] Como planejar as strints
- - [ ] Criar calendarios possiveis
+ - [x] Coletar boas idéias 
+ - [x] Escolher melhores ferramentas
+ - [x] Como planejar as strints
+ - [x] Criar calendarios possiveis
  
 ### Sprint 2
-- [ ] Criar protóticos
-- [ ] Desmonstar idéias
-- [ ] Fazer Testes
-- [ ] Tarefa
+- [x] Criar protóticos
+- [x] Desmonstar idéias
+- [x] Fazer Testes
+- [x] Tarefa
 
 ### Sprint 3
-- [ ] Entregar valor
+- [x] Entregar valor
 - [ ] Tarefa
 - [ ] Tarefa
 - [ ] Tarefa
